@@ -1,0 +1,10 @@
+# Turun Islamilainen Yhdyskunta – sivun asetukset
+# Ulkoasu, rukousaikojen ja Instagramin haku: https://github.com/suomen-moskeijat/pohja
+title: "Turun Islamilainen Yhdyskunta"
+description: "Turun Islamilainen Yhdyskunta, Yliopistonkatu 7, 20520 Turku. Rukousajat, tapahtumat ja toiminta."
+moskeija: turun-islamilainen-yhdyskunta     # tiedosto _moskeijat/turun-islamilainen-yhdyskunta.md
+
+# Osoite: https://suomen-moskeijat.github.io/turun-islamilainen-yhdyskunta/
+# Omalla verkkotunnuksella (esim. moskeija.fi): url: "https://moskeija.fi" ja baseurl: ""
+url: "https://suomen-moskeijat.github.io"
+baseurl: "/turun-islamilainen-yhdyskunta"
